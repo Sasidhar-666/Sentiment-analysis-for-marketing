@@ -1,8 +1,6 @@
-Here is the complete `README.md` content in the format you requested:
 
 ---
 
-````markdown
 # Sentiment-analysis-for-marketing
 
 This project focuses on analyzing customer sentiments from review data to assist marketing teams in understanding public opinion, improving products, and optimizing campaigns. It includes dataset creation, model training, and sentiment scoring to enable data-driven marketing decisions.
@@ -37,7 +35,7 @@ This project focuses on analyzing customer sentiments from review data to assist
 ```bash
 git clone https://github.com/Sasidhar-666/Sentiment-analysis-for-marketing.git
 cd Sentiment-analysis-for-marketing
-````
+
 
 ### 2. Install dependencies
 
