@@ -45,7 +45,6 @@ Make sure you have Python 3.x installed. Then install the required packages:
 pip install -r requirements.txt
 ```
 
-*(If `requirements.txt` is not available, create one by running `pip freeze > requirements.txt` after installing required libraries manually.)*
 
 ### 3. Run the notebooks
 
@@ -85,12 +84,6 @@ Then open the following notebooks in order:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙌 Contributions
 
 Contributions, issues, and feature requests are welcome!
@@ -104,7 +97,3 @@ For feedback or questions, raise an issue on the [GitHub repository](https://git
 
 ```
 
----
-
-Let me know if you'd like me to turn this into a downloadable `README.md` file or push it to your repo.
-```
